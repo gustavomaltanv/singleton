@@ -4,4 +4,4 @@ Aplicação de um **Singleton**.
 
 ### Diagrama:
 
-![img.png](img.png)
+![img.png](./singleton-diagram.png)
